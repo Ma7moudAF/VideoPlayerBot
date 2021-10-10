@@ -1,5 +1,5 @@
  
-An Telegram Bot By SIMBA To Stream Videos in Telegram Voice Chat.
+An Telegram Bot By TEAM XBLACK To Stream Videos in Telegram Voice Chat.
 
 ## Main Features
 
