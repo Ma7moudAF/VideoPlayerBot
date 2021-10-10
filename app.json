@@ -1,7 +1,7 @@
 {
     "name": "Telegram Video Player Bot",
-    "description": "An Telegram Bot By TM_XB To Stream Videos in Voice Chat",
-    "repository": "https://github.com/demosimba1/VideoPlayerBot",
+    "description": "An Telegram Bot By TEAM XBLACK To Stream Videos in Voice Chat",
+    "repository": "https://github.com/Ma7moudAF/VideoPlayerBot",
     "logo": "https://telegra.ph/file/b493a532438fd5fe99301.jpg",
     "stack": "container",
     "keywords": [
@@ -17,41 +17,41 @@
     ],
     "env": {
       "API_ID": {
-        "description": "User Account Telegram API_ID get it from my.telegram.org/apps",
+        "description": "الايبي ايدي هاته من موقع الشركة my.telegram.org/apps",
         "required": true
       },
       "API_HASH": {
-        "description": "User Account Telegram API_HASH get it from my.telegram.org/apps",
+        "description": " الايبي هاش هاته من موقع الشركة get it from my.telegram.org/apps",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "Your Telegram Bot Token, get it from @Botfather XD",
+        "description": "توكن البوووووت, هاته من بوت فازر @Botfather XD",
         "required": true
       },
       "SESSION_STRING": {
-        "description": "Pyrogram Session String of User Account, get it from @genStr_robot",
+        "description": "الجلسة, get it from @genStr_robot",
         "required": true
       },
       "SUDO_USERS": {
-        "description": "ID of Sudo Users who can use Admin commands (for multiple users seperated by space)",
+        "description": "الادمن وسيب مسافه بين كل واحد (for multiple users seperated by space)",
         "required": true
       },
       "ASSISTANT_NAME": {
-        "description": "Your Video Player's assistant Username without @.",
+        "description": "اسم الحساب المساعد",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Support Group username without @ [Leave this if you don't have one]",
+        "description": "جروب الدعم منغير علامة غيرها يانجم @",
         "required": false,
-        "value": "SIMBAXXBAR"
+        "value": "music_Desha1"
       },     
       "UPDATES_CHANNEL": {
-        "description": "Updates Channel username without @ [Leave this if you don't have one].",
+        "description": "قناة الدعم بدون علامه @ سيبها زي ما هي.",
         "required": false,
-        "value": "SIMBA"
+        "value": "music_Desha1"
       },
       "REPLY_MESSAGE": {
-        "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
+        "description": "الرد لما عيل نرم يدخل يكلم الحساب المساعد",
         "value": "مرحبًا سيدي ، أنا روبوت تشغيل مقاطع الفيديو على الدردشة الصوتية في Telegram ، وليس لدي وقت للدردشة معك 😂!",
         "required": false
       }
