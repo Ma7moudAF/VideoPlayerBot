@@ -49,7 +49,7 @@ endstream - Stop Streaming & Left VC
 
 ## Self Host
 ```sh
-$ git clone -b main https://github.com/demosimba1/VideoPlayerBot
+$ git clone -b main https://github.com/Ma7moudAF/VideoPlayerBot
 $ cd VideoPlayerBot
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -61,7 +61,7 @@ $ python3 main.py
 ## License
 ```sh
 VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/demosimba1>
+Copyright (c) 2021  TEAM XBLACK <https://github.com/Ma7moudAF>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
